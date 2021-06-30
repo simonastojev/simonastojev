@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Web development and Data Science
 - 📫 How to reach me: 
      E-mail: ss20170240@student.fon.bg.ac.rs or simona.stojev@gmail.com
+    <br>
      LinkedIn: https://www.linkedin.com/in/simona-stojev-3a477515b/
+     </br>
      Instagram: https://instagram.com/simonastojev
      Facebook: https://facebook.com/simonavbk
 
