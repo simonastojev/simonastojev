@@ -2,12 +2,20 @@
 - 👀 I’m interested in programming, technology, photography, geography, astronomy, ecology & environmental conservation, animal welfare, music...
 - 🌱 I’m currently learning Web development and Data Science
 - 📫 How to reach me: 
+  <br>
      E-mail: ss20170240@student.fon.bg.ac.rs or simona.stojev@gmail.com
+      </br>
     <br>
      LinkedIn: https://www.linkedin.com/in/simona-stojev-3a477515b/
      </br>
+         <br>
+
      Instagram: https://instagram.com/simonastojev
+      </br>
+         <br>
+
      Facebook: https://facebook.com/simonavbk
+      </br>
 
 <!---
 simonastojev/simonastojev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
