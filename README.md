@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @simonastojev
-- 👀 I’m interested in programming, technology, photography, geography, astronomy, ecology and music.
-- 🌱 I’m currently learning web development, Java and how neural networks work.
-- 📫 How to reach me: www.instagram.com/simonastojev, or e-mail: ss20170240@student.fon.bg.ac.rs 
+- 👋 Hi, I’m Simona Stojev! :)
+- 👀 I’m interested in programming, technology, photography, geography, astronomy, ecology & environmental conservation, animal welfare, music...
+- 🌱 I’m currently learning Web development and Data Science
+- 📫 How to reach me: 
+     E-mail: ss20170240@student.fon.bg.ac.rs or simona.stojev@gmail.com
+     LinkedIn: https://www.linkedin.com/in/simona-stojev-3a477515b/
+     Instagram: https://instagram.com/simonastojev
+     Facebook: https://facebook.com/simonavbk
 
 <!---
 simonastojev/simonastojev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
